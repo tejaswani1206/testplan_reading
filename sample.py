@@ -5,3 +5,5 @@ def new_function(input, output):
 new_function('A','B')
 new_function(input='A', output='B')
 new_function(output='B', input='A')
+print('sdsd')
+print('sdcvcvsdfdg')
